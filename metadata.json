@@ -1,0 +1,6 @@
+{
+  "name": "VẬT LÝ – HỌC MÀ CHƠI (Lớp 9 KNTT)",
+  "description": "Ứng dụng học tập và thực hành môn Khoa học tự nhiên 9 (Phần Vật lí) theo bộ sách Kết nối tri thức với cuộc sống: 17 bài học lý thuyết, 340 câu hỏi trắc nghiệm xáo trộn Fisher-Yates, 5 phòng thí nghiệm ảo tương tác, 3 mini game, kiểm tra 15 phút, thi thử 45 phút và trợ lý AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
